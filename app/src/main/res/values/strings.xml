@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Prestare</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_add_new_transaction">AddNewTransaction</string>
+    <string name="contact_name_string">Nombre de contacto</string>
+    <string name="lend_string">yo presto</string>
+    <string name="borrow_string">pido prestado</string>
+    <string name="money_string">dinero</string>
+    <string name="item_string">item</string>
+    <string name="enter_string">Ingrese cantidad o item</string>
+    <string name="to_string">Hasta:</string>
+    <string name="no_reminder_string">No recordar</string>
+    <string name="reminder_string">Recordar:</string>
+    <string-array name="to_dates">
+        <item>1 semana</item>
+        <item>2 semanas</item>
+        <item>3 semanas</item>
+        <item>1 mes</item>
+        <item>Escoger fecha</item>
+    </string-array>
 </resources>
